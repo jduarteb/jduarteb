@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jduarteb
 - 👀 I’m interested in technology, sociology and applied maths for social purpose
-- 🌱 I’m currently learning generative AI for product managment
+- 🌱 I’m currently learning generative AI for product managment - noobie still =) 
 - 📫 How to reach me https://www.linkedin.com/in/julia-duarte-bernardo/
 - 😄 Pronouns: she/her
 
